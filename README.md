@@ -150,3 +150,23 @@ The project also reinforced the importance of understanding the underlying data,
 **Primary Tool:** Tableau Public  
 **Dataset:** Hollywood's Most Profitable Stories  
 **Period Analysed:** 2007–2011
+
+# Folder: Data science activities
+
+### Project Overview
+
+This folder contains the activities i completed as part of my data science learning process
+I made use of Jupyter Notebook to create and run my codes.
+The dataset i used for this excercises was the big_mart_sales.csv file.
+
+### Dataset Information
+
+- **Dataset:** Big Mart Sales Prediction
+- **Original Organiser:** Analytics Vidhya
+- **Data Period:** 2013
+- **Products Represented:** 1,559
+- **Retail Outlets:** 10
+- **Training Dataset Records:** 8,523
+- **Target Variable:** `Item_Outlet_Sales`
+
+**Original Source:** [Analytics Vidhya – Big Mart Sales III](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
